@@ -7,9 +7,9 @@ Tech Stacks: Node.js Typescript Mysql Typeorm Jwt Express
 With this project people can register the system, they can upload products, create orders and many operations. There are some roles for authorization with priorities.
 Project runs on 8080 as default. Before start project, you can run those commands for sample datas;
 
-<mark> npm run roles:bootstrap </mark>. 
-<mark> npm run products:bootstrap </mark>. 
-<mark> npm run orders:bootstrap </mark>. 
+## npm run roles:bootstrap  
+## npm run products:bootstrap  
+## npm run orders:bootstrap   
 
 Endpoints :  
   
